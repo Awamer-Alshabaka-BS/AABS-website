@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <template id="website_footer_custom" inherit_id="website.layout">
+        <xpath expr="//div[@id='footer']" position="replace">
+            <footer class="footer pt-40 pb-40" style="background-image: url(aait_website_style/static/src/img/footer-img.webp);">
+        <div class="container">
+            <div class="row justify-content-between">
+                <div class="col-12 col-lg-4">
+                    <a href="https://aait.sa" class="logo"> <img loading="lazy" src="aait_website_style/static/src/img/colored-logo.webp" alt=" أوامر الشبكة" /> </a>
+                    <p class="info-content m-0">نحن ندعم المشاركة في العالم الرقمي، نتنافس بقوة في سوق الشركات والأعمال التجارية، حيث نقدم جميع خدمات البرمجة والتصميم والتسويق الإلكتروني.</p>
+                    <p class="info-content mt-3">المملكة العربية السعودية - الرياض - حي السليمانية - طريق الملك عبد العزيز - بجوار شركة الناغي للسيارات - مبنى B الدور الثاني</p>
+                    <ul class="social"> 
+    <li> 
+        <a href="https://www.facebook.com/aaitsa1/" target="_blank" title="رابط حساب شركة أوامر الشبكة لتقنية المعلومات على الفيسبوك"> 
+            <i class="fab icon-fa-facebook-f">
+            </i> 
+        </a> 
+    </li> 
+    <li> 
+        <a href="https://www.linkedin.com/company/aait/" target="_blank" title="رابط حساب شركة أوامر الشبكة لتقنية المعلومات على لينكد إن"> 
+            <i class="fab icon-fa-linkedin-in">
+            </i> 
+        </a> 
+    </li> 
+    <li> 
+        <a href="https://twitter.com/aaitsa1" target="_blank" title="رابط حساب شركة أوامر الشبكة لتقنية المعلومات على تويتر"> 
+            <i class="fab icon-fa-twitter">
+            </i> 
+        </a> 
+    </li> 
+    <li> 
+        <a href="https://www.instagram.com/aaitsa1/" target="_blank" title="رابط حساب شركة أوامر الشبكة لتقنية المعلومات على انستغرام"> 
+            <i class="fab icon-fa-instagram">
+            </i> 
+        </a> 
+    </li> 
+    <li> 
+        <a href="https://www.youtube.com/channel/UC9QC5Xjme73ZINQbn86QSKA" target="_blank" title="رابط حساب شركة أوامر الشبكة لتقنية المعلومات على يوتيوب"> 
+            <i class="fab icon-fa-youtube">
+            </i> 
+        </a> 
+    </li> 
+    <li> 
+        <a href="https://www.snapchat.com/add/Aait.sa" title="رابط حساب شركة أوامر الشبكة لتقنية المعلومات على سناب شات"> 
+            <i class="fab icon-fa-snapchat-ghost">
+            </i> 
+        </a> 
+    </li> 
+</ul>
+                </div>
+                <div class="col-6 col-lg-2">
+                    <p class="foot-title">خدماتنا</p>
+                    <div class="foot-list" >
+                        <a href="https://aait.sa/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9" title="تصميم المواقع"> تصميم المواقع </a>
+                        <a href="https://aait.sa/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D9%84" title="تصميم تطبيقات الجوال"> تصميم تطبيقات الجوال </a>
+                        <a href="https://aait.sa/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%85%D8%AA%D8%AC%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A" title="تصميم متجر الكتروني"> تصميم متجر الكتروني </a>
+                        <a href="https://aait.sa/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A" title="شركة تسويق الكتروني"> شركة تسويق الكتروني </a>
+                        <a href="https://aait.sa/%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9" title="الهوية التجارية"> الهوية التجارية </a>
+                        <a href="https://aait.sa/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%85%D9%88%D8%B4%D9%86-%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D9%83" title="موشن جرافيك"> موشن جرافيك </a>
+                        <a href="https://aait.sa/servers" title="سيرفرات عالمية"> سيرفرات عالمية </a> <a href="https://aait.sa/hosting-vps" title="سيرفرات سعودية"> سيرفرات سعودية </a>
+                        <a href="https://aait.sa/%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A3%D9%88%D8%A7%D9%85%D8%B1-%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A9" title="منتجات أوامر الشبكة"> منتجات أوامر الشبكة </a>
+                        <a href="https://aait.sa/%D8%A7%D9%84%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A" title="الأمن السيبراني - أمن المعلومات"> الأمن السيبراني - أمن المعلومات </a>
+                        <a href="https://aait.sa/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AC%D8%AF%D9%88%D9%89" title="دراسة جدوى"> دراسة جدوى </a> <a href="https://aait.sa/%D9%86%D8%B8%D8%A7%D9%85-odoo" title="أنظمة odoo"> أنظمة odoo </a>
+                        <!-- <a href="https://aait.sa/%D8%A8%D8%A7%D9%82%D8%A7%D8%AA_SMS" title="باقات الرسائل SMS"> باقات الرسائل SMS </a> -->
+                    </div>
+                </div>
+                <div class="col-6 col-lg-2">
+                    <p class="foot-title">العملاء</p>
+                    <div class="foot-list"><a href="https://my.aait.sa" target="_blank" title="منطقة العميل"> منطقة العميل</a></div>
+                    <p class="foot-title">نبذة عنا</p>
+                    <div class="foot-list">
+                        <a href="https://aait.sa/news/" title="المدونة"> المدونة</a> <a href="https://aait.sa/%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84" title="أعمالنا"> أعمالنا</a>
+                        <a href="https://aait.sa/%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A3%D9%88%D8%A7%D9%85%D8%B1-%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A9" title="منتجات أوامر الشبكة"> منتجات أوامر الشبكة</a>
+                        <a href="https://aait.sa/%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9" title="خريطة الموقع">خريطة الموقع</a>
+                        <a href="https://aait.sa/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9" title="سياسة الشركة">سياسة الشركة</a>
+                        <a href="https://aait.sa/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D9%88%D8%A7%D9%84%D8%A2%D8%AD%D9%83%D8%A7%D9%85" title="الشروط والآحكام">الشروط والآحكام</a>
+                        <a href="https://aait.sa/%D8%A7%D9%84%D8%A7%D8%B3%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9" title="الاسئلة الشائعة">الاسئلة الشائعة</a> <a href="" title=""></a>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-3">
+                    <p class="foot-title">الدورات</p>
+                    <span class="animated-btn green m-0"> <a href="" class="button green" data-toggle="modal" data-target="#seo_modal"> التقديم علي دوره seo </a> </span>
+                    <p class="foot-title mt-4">الايزو</p>
+                    <div class="iso">
+                        <a href="https://aait.sa/public/Iso9001.pdf" target="_blank"> <img loading="lazy" src="https://aait-bs.odoo.com/aait_website_style/static/src/img/Iso9001.webp" alt="Iso9001" style="height:100%;display:inline-block;margin-left:20px;" class="w-100" /> </a>
+                    </div>
+                    <div class="adress">
+                        <p class="foot-title">الشهادات والتراخيص</p>
+                        <div class="address-imgs">
+                            <img loading="lazy" src="aait_website_style/static/src/img/qr.webp" style="width: 120px;display:inline-block;margin-left:20px;" alt=" أوامر الشبكة" class="ident ml-2"  />
+                            <a href="https://www.google.com/partners/agency?id=8520472356" class="d-inline"><img loading="lazy" src="aait_website_style/static/src/img/google-partner.webp" alt=" أوامر الشبكة" style="width: 120px;display:inline-block;margin-left:20px;" class="ident" /></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+        </xpath>
+        <!-- <xpath expr="//footer//span[hasclass('o_footer_copyright_name')]" position="replace">
+            <span class="o_footer_copyright_name me-2"> جميع الحقوق محفوظة لشركة <span class="green">أوامر الشبكة</span> </span>
+            <div style='display: flex;  align-items: center;  padding: 10px 25px;  background: #fff;  border-radius: 25px; border: 0; direction: rtl;  text-align: right; outline: 0;  box-sizing: border-box;'> 
+                <a href="https://aait.sa/public/site/certificate.pdf" target="_blank"> 
+                    <img loading="lazy" src="https://aait.sa/public/site/img/icons/certificate.webp" alt="وسائل دفع أوامر الشبكة" style="height: 40px;"/> 
+                </a> 
+                <img loading="lazy" src="https://aait.sa/public/site/img/icons/mada.webp" alt="وسائل دفع أوامر الشبكة"/> 
+                <img loading="lazy" src="https://aait.sa/public/site/img/icons/visa.webp" alt="وسائل دفع أوامر الشبكة"/> 
+                <img loading="lazy" src="https://aait.sa/public/site/img/icons/mastercard.webp" alt="وسائل دفع أوامر الشبكة"/> 
+                <img loading="lazy" src="https://aait.sa/public/site/img/icons/paypal.webp" alt="وسائل دفع أوامر الشبكة"/> 
+            </div>
+        </xpath> -->
+    </template>
+</odoo>        

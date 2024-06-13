@@ -1,0 +1,256 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* aait_website_style
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-09 13:59+0000\n"
+"PO-Revision-Date: 2023-05-09 13:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "<i class=\"fa fa-phone\"/> 920005929"
+msgstr ""
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "<i class=\"fa fa-whatsapp\"/> 0555105662"
+msgstr ""
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "Iso9001"
+msgstr "ISO"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "أعمالنا"
+msgstr "Our works"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "أنظمة odoo"
+msgstr "Odoo System"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "أوامر الشبكة"
+msgstr "Awamer Alshabaka"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "اعمالنا"
+msgstr "Our works"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "الأمن السيبراني - أمن المعلومات"
+msgstr "Cybersecurity - Information Security"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "الاسئلة الشائعة"
+msgstr "FAQ"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "الايزو"
+msgstr "ISO"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "التقديم علي دوره seo"
+msgstr "Applying for an SEO course"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "الدورات"
+msgstr "Courses"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "الرئيسية"
+msgstr "Home"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "الرصد الاعلامي"
+msgstr "Media monitoring"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "الشروط والآحكام"
+msgstr "Terms and Conditions"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "الشهادات والتراخيص"
+msgstr "Certificates and Licenses"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "العملاء"
+msgstr "Customers"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "المدونة"
+msgstr "Blog"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid ""
+"المملكة العربية السعودية - الرياض - حي السليمانية - شارع الملك عبد العزيز - "
+"بجوار شركة الناغي للسيارات - مبنى B الدور الثاني"
+msgstr "The Kingdom of Saudi Arabia - Riyadh - Al-Sulaimaniyah District - King Abdulaziz Street - Next to Al-Naghi Motors Company - Building B, Second Floor"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "الهوية التجارية"
+msgstr "Brand identity"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "اوامر الشبكة"
+msgstr "Awamer Alshabaka"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "باقات الرسائل SMS"
+msgstr "SMS messaging packages"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "تصميم المواقع"
+msgstr "Website design"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "تصميم تطبيقات الجوال"
+msgstr "Mobile app design"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "تصميم متجر الكتروني"
+msgstr "E-commerce website design"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "خدماتنا"
+msgstr "Our services"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "خريطة الموقع"
+msgstr "Site map"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "دراسة جدوى"
+msgstr "Feasibility study"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "رابط حساب شركة أوامر الشبكة لتقنية المعلومات على الفيسبوك"
+msgstr "The link to the Facebook page for Awamer AlShabaka for Information Technology company's account is:"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "رابط حساب شركة أوامر الشبكة لتقنية المعلومات على انستغرام"
+msgstr "The link to Awamer AlShabaka for Information Technology company's account on Instagram is:"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "رابط حساب شركة أوامر الشبكة لتقنية المعلومات على تويتر"
+msgstr "The link to Awamer AlShabaka for Information Technology company's account on Twitter is:"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "رابط حساب شركة أوامر الشبكة لتقنية المعلومات على سناب شات"
+msgstr "The link to Awamer AlShabaka for Information Technology company's account on Snapchat is:"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "رابط حساب شركة أوامر الشبكة لتقنية المعلومات على لينكد إن"
+msgstr "The link to Awamer AlShabaka for Information Technology company's account on LinkedIn is:"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "رابط حساب شركة أوامر الشبكة لتقنية المعلومات على يوتيوب"
+msgstr "The link to Awamer AlShabaka for Information Technology company's account on YouTube is:"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "سياسة الشركة"
+msgstr "Company policy"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "سيرفرات سعودية"
+msgstr "Saudi servers"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "سيرفرات عالمية"
+msgstr "Global servers"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid ""
+"شركة تدعم المشاركة في العالم الرقمي والتواجد حيث يتواجد العملاء وتعلو "
+"المنافسة بين الشركات والنشاطات التجارية ، تقدم جميع خدمات البرمجة والتصميم "
+"والتسويق الالكتروني ."
+msgstr "A company that supports participation in the digital world and presence where customers are, and rises above the competition between companies and business activities, offering all programming, design, and digital marketing services."
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "شركة تسويق الكتروني"
+msgstr "Digital marketing company"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "منتجات أوامر الشبكة"
+msgstr "Awamer AlShabaka's products"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "منتجاتنا"
+msgstr "Our products"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+msgid "منطقة العميل"
+msgstr "Customer area"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "موشن جرافيك"
+msgstr "Motion graphics"
+
+#. module: aait_website_style
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_footer_custom
+#: model_terms:ir.ui.view,arch_db:aait_website_style.website_navbar_custom
+msgid "نبذة عنا"
+msgstr "About us"

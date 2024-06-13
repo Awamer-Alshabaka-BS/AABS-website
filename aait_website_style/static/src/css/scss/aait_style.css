@@ -1,0 +1,31 @@
+.footer{
+    background-size: cover;}
+    .footer .aait-foot-title {
+        font-size: 20px;
+        color: #6dbe0a;
+        margin-bottom: 20px;
+        position: relative; }
+        @media (max-width: 768px) {
+          html[dir="ltr"] .footer .aait-foot-title {
+            margin-left: 15px; }
+          html[dir="rtl"] .footer .aait-foot-title {
+            margin-right: 15px; } }
+        .footer .aait-foot-title::before {
+          content: "";
+          display: block;
+          width: 4px;
+          height: 15px;
+          top: 50%;
+          position: absolute;
+          transform: translateY(-50%);
+          background-color: #6dbe0a; }
+          html[dir="ltr"] .footer .aait-foot-title::before {
+            left: -15px; }
+          html[dir="rtl"] .footer .aait-foot-title::before {
+            right: -15px; }
+      .footer .aait-foot-list a {
+        color: #ffffff;
+        display: block;
+        margin-bottom: 10px; }
+        .footer .aait-foot-list a:hover {
+          color: #6dbe0a; }    

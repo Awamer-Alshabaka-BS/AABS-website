@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template >
+        <<t t-name="whatsapp_mail_messaging.whatsapp_icon">
+            <div class="floating_btn">
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=00966555105662&amp;text=هلا">
+                    <div class="contact_icon">
+                        <i class="fa fa-whatsapp my-float"></i>
+                    </div>
+                </a>
+            </div>
+   </t>
+    </template>
+</odoo>

@@ -1,0 +1,383 @@
+
+
+<t name="Homepage" t-name="website.homepage">
+  <t t-call="website.layout">
+    <t t-set="pageName" t-value="'homepage'"/>
+    <div id="wrap" class="oe_structure oe_empty"><section class="s_title pt40 pb40 o_colored_level" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+            <p><br/></p><p><br/></p><p><br/></p></div>
+    </section>
+      <section class="s_picture o_cc o_cc1 o_colored_level pt24 pb0 oe_img_bg o_bg_img_center" style="background-image: url(&quot;/web/image/948-f1ad34be/Abstract%20Blue%20Phone%20Wallpaper.jpg&quot;); background-position: center center; position: relative;" data-snippet="s_picture" data-name="Picture" data-original-id="932" data-original-src="/web/image/932-3ee14c27/Abstract%20Blue%20Phone%20Wallpaper.jpg" data-mimetype="image/jpeg" data-resize-width="1080" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Wavy/08&quot;,&quot;colors&quot;:{&quot;c2&quot;:&quot;#FFFFFF&quot;},&quot;flip&quot;:[&quot;y&quot;]}">
+        <div class="o_we_bg_filter" style="background-image: linear-gradient(135deg, rgb(0, 0, 0) 0%, rgba(222, 222, 222, 0.13) 100%);"/>
+        <div class="container">
+          <h2 style="text-align: center;">
+            <span style="">
+              <font class="text-o-color-4">&amp;nbsp;</font>
+            </span>
+            <font class="text-o-color-4">
+              <span style="">
+              Build Your Desired
+              
+            </span>
+            </font>
+            <font class="text-o-color-4"/>
+          </h2>
+          <h2 style="text-align: center;">
+            <span style="">
+              <span style="">
+                <font class="text-o-color-4">
+                System​</font>
+              </span>
+              <font class="text-o-color-4">
+              </font>
+            </span>
+            <font class="text-o-color-4">
+            </font>
+          </h2>
+          <h3 style="text-align: center;">&amp;nbsp;<span class="fa fa-minus" data-bs-original-title="" title="" aria-describedby="tooltip631477" style="color: rgb(109, 190, 10);"/><span class="fa fa-minus" data-bs-original-title="" title="" aria-describedby="tooltip19496" style="color: rgb(86, 194, 225);"/><br/>
+          </h3>
+          <p style="text-align: center;"/>
+          <p style="text-align: center;">
+            <font class="text-o-color-4" style="">Ask your questions and discuss your projects with our partners.</font>
+            <br/>
+            <font class="text-o-color-4" style="">
+        They are here to help you grow your business!</font>
+          </p>
+          <p style="text-align: center;"><a href="/contactus" class="btn btn-primary">Contact Us</a>&amp;nbsp;<br/></p>
+          <div class="row s_nb_column_fixed">
+            <div class="col-lg-10 offset-lg-1 o_colored_level pb0" style="text-align: center;">
+              <figure class="figure">
+                <a data-bs-original-title="" title="">
+                  <img src="/web/image/872-d56d8de0/odoo-.svg" alt="" class="img-fluid img o_we_custom_image" data-original-id="868" data-original-src="/web/image/868-537a3a7d/odoo-.jpeg" data-mimetype="image/svg+xml" data-resize-width="426" data-shape="web_editor/devices/macbook_front" data-file-name="odoo-.svg" data-shape-colors=";;#F9F9F9;;" data-original-mimetype="image/jpeg" loading="lazy" style="" data-bs-original-title="" title="" aria-describedby="tooltip201823"/>
+                </a>
+                <br/>
+              </figure>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_image o_colored_level pb0 o_half_screen_height pt0" data-snippet="s_image_text" data-name="Text - Image" style="position: relative; background-image: none;">
+        <div class="container">
+          <div class="row o_grid_mode" style="" data-row-count="10">
+            <div class="o_grid_item o_grid_item_image o_colored_level g-col-lg-6 g-height-10 col-lg-6" style="z-index: 3; grid-area: 1 / 1 / 11 / 7;">
+              <br/>
+              <img src="https://aait-bs.odoo.com/web/image/890-0ba931b3/odoo%20%281%29.png" alt="" class="img-fluid img o_we_custom_image" data-original-id="874" data-original-src="/web/image/874-0ba931b3/odoo%20%281%29.png" data-mimetype="image/png" data-resize-width="690" loading="lazy" style="" data-bs-original-title="" title="" aria-describedby="tooltip857228"/>
+            </div>
+            <div class="o_colored_level o_grid_item g-col-lg-6 g-height-8 col-lg-6" style="z-index: 2; grid-area: 3 / 7 / 11 / 13;">
+              <h2 style="text-align: left;">
+                <font style="color: rgb(109, 190, 10);">What is Odoo</font>
+              </h2>
+              <p>
+                <font class="text-o-color-2" style="background-color: rgba(255, 0, 0, 0);">Odoo is a suite of business management software tools including, for example, CRM, e-commerce, billing, accounting, manufacturing, warehouse, project management, and inventory management.
+                </font>
+                <br/>
+                <br/>
+                <font class="text-o-color-2" style="background-color: rgba(255, 0, 0, 0);">During Odoo experience which took place in Belgium in October 2022, Fabien Pinckaers announced that moving forward Odoo will make all applications available for free in enterprise edition, making Odoo an unparalleled suite of +70 integrated business apps.</font>
+                <font class="text-o-color-4" style="background-color: rgba(255, 0, 0, 0);"><br/><br/>​</font>
+                <br/>
+              </p>
+              <p style="text-align: center;">
+                <a href="/odoo" class="mb-2 btn btn-custom text-o-color-4 bg-o-color-1" data-bs-original-title="" title="" style="border-width: 1px; border-style: solid;" aria-describedby="popover410333">Discover mor​​e​​​​​​​​​​​​​​</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_picture o_cc o_cc1 o_colored_level pb256 o_half_screen_height oe_img_bg o_bg_img_center pt16" style="background-image: url(&quot;/web/image/871-86a8bc44/banner%20with%20no%20txt.jpg&quot;);" data-snippet="s_picture" data-name="Picture" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Wavy/08&quot;,&quot;flip&quot;:[&quot;y&quot;]}" data-original-id="870" data-original-src="/web/image/870-d6852e23/banner%20with%20no%20txt.jpg" data-mimetype="image/jpeg" data-resize-width="1920">
+        <div class="container">
+          <h3 style="text-align: center;">
+            <font class="text-o-color-3">&amp;nbsp;&amp;nbsp;&amp;nbsp;we are now&amp;nbsp;partner with&amp;nbsp;Odoo&amp;nbsp;</font>
+          </h3>
+          <p style="text-align: center;">
+            <font class="text-o-color-4">&amp;nbsp;&amp;nbsp;Odoo is for all your need&amp;nbsp;&amp;nbsp;</font>
+            <br/>
+            <font class="text-o-color-4">&amp;nbsp; &amp;nbsp; &amp;nbsp; The best integrated ERP system&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;</font>
+          </p>
+        </div>
+      </section>
+      <section class="s_title pt40 o_colored_level pb32" data-vcss="001" data-snippet="s_title" data-name="Title" style="position: relative; background-image: none;">
+        <div class="s_allow_columns container">
+          <h2 style="text-align: center;">
+            <font style="color: rgb(109, 190, 10);">Our Services​</font>
+            <br/>
+          </h2>
+        </div>
+      </section>
+      <section class="s_three_columns pb72 o_colored_level o_cc o_cc1 pt24" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="position: relative; background-image: none;">
+        <div class="container">
+          <div class="row d-flex align-items-stretch">
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card text-bg-white h-100 bg-o-color-3 shadow rounded" style="border-width: 0px !important; border-radius: 50px !important; box-shadow: rgba(0, 0, 0, 0.05) 0px 8px 16px 0px !important;">
+                <img src="/web/image/884-61a94496/implmentation.jpg" alt="" class="card-img-top img img-fluid o_we_custom_image" data-original-id="877" data-original-src="/web/image/877-b0d4bcea/implmentation.jpg" data-mimetype="image/jpeg" data-resize-width="690" loading="lazy" style=""/>
+                <div class="card-body">
+                  <h3 class="card-title">
+                    <span class="text-o-color-1 o_default_snippet_text">
+                      <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient">
+                        
+                      </font>
+                      <span style="font-size: 24px;"/>
+                    </span>
+                    <span style="font-size: 24px;"/>
+                    <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient">
+                      </font>
+                    <font style="color: rgb(109, 190, 10);"><span style="font-size: 24px;">Implementation</span>&amp;nbsp;</font>
+                    <br/>
+                  </h3>
+                  <p class="card-text">
+                    <span style="font-size: 14px;" class="text-o-color-5">Implementing a new business software solution can be intimidating. To avoid the risks, the system design and configuration should be aligned with the organization’s business processes and policies.</span>
+                  </p>
+                  <p class="card-text" style="text-align: center;">
+                    <a href="/implmentation" class="o_we_force_no_transition btn btn-primary" data-bs-original-title="" title="">Learn more</a>
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card text-bg-white h-100 shadow rounded" style="border-width: 0px !important; box-shadow: rgba(0, 0, 0, 0.05) 0px 8px 16px 0px !important; border-radius: 50px !important;">
+                <img src="/web/image/891-3a4083d1/customizable.png" alt="" class="card-img-top img img-fluid o_we_custom_image" data-original-id="878" data-original-src="/web/image/878-3a4083d1/customizable.png" data-mimetype="image/png" data-resize-width="567" loading="lazy" style="" data-bs-original-title="" title="" aria-describedby="tooltip695254"/>
+                <div class="card-body">
+                  <h3 class="card-title">
+                    <span class="text-o-color-1">
+                      <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient"/>
+                    </span>
+                    <font style="color: rgb(109, 190, 10);"><span style="font-size: 24px;">Customization​</span>&amp;nbsp;</font>
+                    <br/>
+                  </h3>
+                  <p class="card-text">
+                    <span style="font-size: 14px;" class="text-o-color-5">An enterprise application must go by client's way. Customization provides that personalized experience in an application focusing on the client’s requirements and ideas.</span>
+                    <br/>
+                  </p>
+                  <p class="card-text" style="text-align: center;">
+                    <a href="/customization" class="btn btn-primary" data-bs-original-title="" title="">
+                      <font class="text-o-color-5">Learn more</font>
+                    </a>
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card text-bg-white h-100 shadow rounded" style="border-width: 0px !important; box-shadow: rgba(0, 0, 0, 0.05) 0px 8px 16px 0px !important; border-radius: 50px !important;">
+                <img src="/web/image/886-0586c3ef/training.jpg" alt="" class="card-img-top img img-fluid o_we_custom_image" data-original-id="879" data-original-src="/web/image/879-2ae0fa12/training.jpg" data-mimetype="image/jpeg" data-resize-width="690" loading="lazy" style=""/>
+                <div class="card-body">
+                  <h3 class="card-title">
+                    <span class="text-o-color-1 o_default_snippet_text">
+                      <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient">
+                        </font>
+                    </span>
+                    <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient">
+                      </font>
+                    <font style="color: rgb(109, 190, 10);">
+                      <span style="font-size: 24px;">Training</span>
+                    </font>
+                    <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient">
+                    </font>
+                    <br/>
+                  </h3>
+                  <p class="card-text">
+                    <span style="font-size: 14px;" class="text-o-color-5">Employees should be well-trained and should become experts in using the new system to deliver better value for the business.</span>
+                    <br/>
+                  </p>
+                  <p class="card-text o_default_snippet_text">
+                    <br/>
+                  </p>
+                  <p class="card-text" style="text-align: center;">
+                    <a href="/training" class="btn btn-primary" data-bs-original-title="" title="">Learn more</a>
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card text-bg-white h-100 shadow rounded" style="border-width: 0px !important; box-shadow: rgba(0, 0, 0, 0.05) 0px 8px 16px 0px !important; border-radius: 50px !important;">
+                <img src="/web/image/885-aca50cc3/consultation.jpg" alt="" class="card-img-top img img-fluid o_we_custom_image" data-original-id="880" data-original-src="/web/image/880-7629dc8c/consultation.jpg" data-mimetype="image/jpeg" data-resize-width="690" loading="lazy" style=""/>
+                <div class="card-body">
+                  <h3 class="card-title">
+                    <span class="text-o-color-1 o_default_snippet_text">
+                      <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient">
+                        </font>
+                    </span>
+                    <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient">
+                      </font>
+                    <font style="color: rgb(109, 190, 10);">
+                      <span style="font-size: 24px;">Consultation</span>
+                    </font>
+                    <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient">
+                    </font>
+                    <br/>
+                  </h3>
+                  <p class="card-text">
+                    <span style="font-size: 14px;" class="text-o-color-5">A professional consultant to provide you with expert advice, reinforce your team and achieve your project goals.</span>
+                    <br/>
+                  </p>
+                  <p class="card-text" style="text-align: center;">
+                    <a href="/consultation" class="btn btn-primary" data-bs-original-title="" title="">Learn more</a>
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb0">
+              <div class="card text-bg-white h-100 shadow rounded" style="border-width: 0px !important; box-shadow: rgba(0, 0, 0, 0.05) 0px 8px 16px 0px !important; border-radius: 50px !important;">
+                <img src="/web/image/887-85b185c0/data%20migration.jpeg" alt="" class="card-img-top img img-fluid o_we_custom_image" data-original-id="882" data-original-src="/web/image/882-131ac284/data%20migration.jpeg" data-mimetype="image/jpeg" data-resize-width="690" loading="lazy" style=""/>
+                <div class="card-body">
+                  <h3 class="card-title">
+                    <span class="text-o-color-1 o_default_snippet_text">
+                      <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient">
+                        </font>
+                    </span>
+                    <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient">
+                      </font>
+                    <font style="color: rgb(109, 190, 10);"><span style="font-size: 24px;">Data Migration</span>&amp;nbsp;</font>
+                    <br/>
+                  </h3>
+                  <p class="card-text">
+                    <font class="text-o-color-5" color="#636363">
+                      <span style="font-size: 14px;">We provide&amp;nbsp;facilitated data migration strategies to help organizations successfully move their data from one environment to another, creating strategic solutions and delivering tangible business results. &amp;nbsp;</span>
+                    </font>
+                  </p>
+                  <p class="card-text" style="text-align: center;">
+                    <a href="/data-migration" class="btn btn-primary o_we_force_no_transition" data-bs-original-title="" title="">Learn&amp;nbsp; more</a>
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor pb16 pt16">
+              <div class="card text-bg-white h-100 rounded shadow" style="border-width: 0px !important; border-radius: 50px !important; box-shadow: rgba(0, 0, 0, 0.05) 0px 8px 16px 0px !important;">
+                <img src="/web/image/888-e51c10db/tech%20support.jpg" alt="" class="card-img-top img img-fluid o_we_custom_image" data-original-id="883" data-original-src="/web/image/883-1c340118/tech%20support.jpg" data-mimetype="image/jpeg" data-resize-width="690" loading="lazy" style=""/>
+                <div class="card-body">
+                  <h3 class="card-title">
+                    <span class="text-o-color-1 o_default_snippet_text">
+                      <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient">
+                        </font>
+                    </span>
+                    <font style="background-image: linear-gradient(135deg, rgb(0, 179, 204) 0%, rgb(138, 221, 41) 100%);" class="text-gradient">
+                      </font>
+                    <font style="color: rgb(109, 190, 10);"><span style="font-size: 24px;">Technical Support</span>&amp;nbsp;</font>
+                    <br/>
+                  </h3>
+                  <p class="card-text">
+                    <span style="font-size: 14px;" class="text-o-color-5">&amp;nbsp;helping customers enhance existing functionalities and ensure the success of the business’ overall system.</span>
+                    <br/>
+                  </p>
+                  <p class="card-text" style="text-align: center;">
+                    <a href="/technical-support" class="btn btn-primary" data-bs-original-title="" title="" aria-describedby="popover57972"><font class="text-o-color-5">Learn</font> more</a>
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_image pt64 pb64 o_colored_level o_snippet_invisible o_we_force_no_transition o_conditional_hidden" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none;" data-visibility="conditional" data-visibility-value-country="[{&quot;id&quot;:192,&quot;name&quot;:&quot;Saudi Arabia&quot;,&quot;display_name&quot;:&quot;Saudi Arabia&quot;,&quot;code&quot;:&quot;SA&quot;}]" data-visibility-selectors="html:not([data-country=&quot;SA&quot;]) body:not(.editor_enable) [data-visibility-id=&quot;country_o_192&quot;]" data-visibility-id="country_o_192" data-invisible="1">
+        <div class="container">
+          <div class="row o_grid_mode o_we_force_no_transition" style="" data-row-count="7">
+            <div class="o_colored_level o_grid_item g-col-lg-5 g-height-7 col-lg-5 o_grid_item_image" style="grid-area: 1 / 1 / 8 / 6; z-index: 1;">
+              <img src="https://aait-bs-beta-7245125.dev.odoo.com/web/image/2053-7bfe0b8a/s_text_image.svg" class="img img-fluid mx-auto rounded shadow" alt="" data-shape="web_editor/devices/ipad_3d_landscape_02" data-original-mimetype="image/jpeg" data-file-name="s_text_image.svg" data-shape-colors=";;;;#343A40" loading="lazy" data-original-id="1450" data-original-src="/theme_odoo_experts/static/src/img/snippets/s_text_image.jpg" data-mimetype="image/svg+xml" data-bs-original-title="" title="" aria-describedby="tooltip265945" style=""/>
+            </div>
+            <div class="o_colored_level o_grid_item g-height-7 g-col-lg-5 col-lg-5" style="z-index: 2; grid-area: 1 / 7 / 8 / 12;">
+              <h2>
+                <font style="color: inherit;"/>
+                <font style="color: rgb(109, 190, 10);">Electronic Invoice KSA</font>
+                <br/>
+              </h2>
+              <p>
+                <br/>
+              </p>
+              <p class="o_default_snippet_text">
+        Guided by expertise gained over 20 years of achieving success for clients, we practice with passion and strategic focus on the future.
+    </p>
+              <p><a href="/e-invoices" class="mb-2 btn btn-custom text-o-color-4 bg-o-color-1" data-bs-original-title="" title="" style="border-width: 1px; border-style: solid;">Learn more​​​</a>​
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_image o_colored_level o_snippet_invisible pb0 pt0 o_half_screen_height o_conditional_hidden" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none; position: relative;" data-visibility="conditional" data-visibility-value-country-rule="" data-visibility-value-country="[{&quot;id&quot;:65,&quot;name&quot;:&quot;Egypt&quot;,&quot;display_name&quot;:&quot;Egypt&quot;,&quot;code&quot;:&quot;EG&quot;}]" data-visibility-selectors="html:not([data-country=&quot;EG&quot;]) body:not(.editor_enable) [data-visibility-id=&quot;country_o_65&quot;]" data-visibility-id="country_o_65" data-invisible="1">
+        <div class="container">
+          <div class="row o_grid_mode" style="" data-row-count="9">
+            <div class="o_colored_level o_grid_item g-height-9 g-col-lg-5 col-lg-5" style="grid-area: 1 / 1 / 10 / 6; z-index: 1;">
+              <h2>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;<img src="https://aait-bs-beta-7245125.dev.odoo.com/web/image/2137-f4bab160/invoics.gif" alt="" class="img img-fluid o_we_custom_image" data-original-id="2137" data-original-src="/web/image/2137-f4bab160/invoics.gif" data-mimetype="image/gif" data-bs-original-title="" title="" aria-describedby="tooltip442137" style="width: 50% !important;" loading="lazy"/></h2>
+            </div>
+            <div class="o_colored_level o_grid_item g-col-lg-6 g-height-7 col-lg-6" style="z-index: 2; grid-area: 2 / 7 / 9 / 13;">
+              <h2>
+                <font style="color: rgb(109, 190, 10);">Egyptian&amp;nbsp;</font>
+              </h2>
+              <h2>
+                <font style="color: rgb(109, 190, 10);">E-Invoices&amp;nbsp;&amp;nbsp;</font>
+                <font class="text-false" style=""/>
+                <br/>
+              </h2>
+              <p>
+                <br/>
+              </p>
+              <p>
+                <font color="#11335b">
+                  <span style="font-size: 14px;">Egyptian e-Invoicing Odoo&amp;nbsp;module for syncing Odoo&amp;nbsp;Clients invoices, vendor bills, debit and credit notes</span>
+                </font>
+                <br/>
+                <span style="color: rgb(17, 51, 91);font-size: 14px">with Egypt Ministry of Finance and Egyptian Tax Authority E-Invoice system.</span>
+                <br/>
+              </p>
+              <p><a href="/e-invoices" class="mb-2 btn btn-custom text-o-color-4 bg-o-color-1" data-bs-original-title="" title="" style="border-width: 1px; border-style: solid;">Learn more​​​​​​​</a>​
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_image pb64 o_colored_level pt8" data-snippet="s_text_image" data-name="Text - Image" style="position: relative; background-image: none;">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="pt16 pb16 o_colored_level col-lg-6" style="">
+              <h2>
+                <font style="color: rgb(109, 190, 10);">Request your Demo​</font>
+                <br/>
+              </h2>
+              <p>
+                <br/>
+              </p>
+              <p>
+                <font class="text-black">Guided by expertise gained over 20 years of achieving success for clients, we practice with passion and strategic focus on the future.</font>
+              </p>
+              <p>
+                <a href="/appointment" class="mb-2 o_we_force_no_transition btn btn-custom text-o-color-3 bg-o-color-1" data-bs-original-title="" title="" style="border-width: 1px; border-style: solid;">Request a Demo​​​​</a>
+              </p>
+            </div>
+            <div class="pt16 pb16 o_colored_level col-lg-6 o_anim_zoom_in o_animate o_animate_on_scroll" style="animation-delay: -0.0073968s;" data-scroll-zone-start="0" data-scroll-zone-end="100">
+              <h2>
+                <img src="/web/image/889-6a453da8/implmentation.svg" alt="" class="img img-fluid o_we_custom_image" data-shape="web_editor/float/flt_primary_2" data-shape-colors="#8BDD28;#212529;;;#343A40" data-original-id="877" data-original-src="/web/image/877-b0d4bcea/implmentation.jpg" data-mimetype="image/svg+xml" data-original-mimetype="image/jpeg" data-resize-width="690" data-file-name="implmentation.svg" data-bs-original-title="" title="" aria-describedby="tooltip362843" loading="eager"/>
+                <br/>
+              </h2>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_title pt40 o_colored_level pb32" data-vcss="001" data-snippet="s_title" style="position: relative; background-image: none;" data-name="Custom Title">
+        <div class="s_allow_columns container">
+          <h2 style="text-align: center;"><font style="color: rgb(109, 190, 10);" class="o_default_snippet_text">Our Clients</font>&amp;nbsp;<br/></h2>
+        </div>
+      </section>
+      <section class="s_references pt0 o_colored_level pb80 o_cc o_cc1" data-snippet="s_references" data-name="References" style="background-image: none;">
+        <div class="container-fluid">
+          <div class="row o_grid_mode" style="" data-row-count="4">
+            <div class="o_colored_level o_grid_item g-col-lg-2 o_grid_item_image g-height-4 col-lg-2" style="z-index: 1; grid-area: 1 / 2 / 5 / 4;">
+              <img src="/web/image/1069-688cf039/%D8%A7%D8%B1%D8%B6%20%D8%A7%D9%84%D9%84%D9%8A%D8%B2%D8%B1.png" alt="" class="img img-fluid mx-auto o_we_custom_image" data-original-id="1065" data-original-src="/web/image/1065-8c807a1c/%D8%A7%D8%B1%D8%B6%20%D8%A7%D9%84%D9%84%D9%8A%D8%B2%D8%B1.png" data-mimetype="image/png" data-resize-width="256" data-bs-original-title="" title="" aria-describedby="tooltip232264" loading="lazy" style=""/>
+            </div>
+            <div class="o_colored_level o_grid_item o_grid_item_image g-height-2 g-col-lg-4 col-lg-4" style="z-index: 2; grid-area: 2 / 4 / 4 / 8;">
+              <img src="/web/image/1072-7abbc812/Attractive_Design_Trading_KSA-removebg-preview.png" alt="" class="img img-fluid mx-auto o_we_custom_image" data-original-id="1066" data-original-src="/web/image/1066-5a8452d2/Attractive_Design_Trading_KSA-removebg-preview.png" data-mimetype="image/png" data-resize-width="512" data-bs-original-title="" title="" aria-describedby="tooltip92650" loading="lazy" style=""/>
+            </div>
+            <div class="o_colored_level o_grid_item g-col-lg-2 o_grid_item_image g-height-4 col-lg-2" style="z-index: 3; grid-area: 1 / 8 / 5 / 10;">
+              <img src="/web/image/1071-3af43e87/Nojoom_Alsalam_Holding_CO-removebg-preview.png" alt="" class="img img-fluid mx-auto o_we_custom_image" data-original-id="1067" data-original-src="/web/image/1067-c29b4927/Nojoom_Alsalam_Holding_CO-removebg-preview.png" data-mimetype="image/png" data-resize-width="255" data-bs-original-title="" title="" aria-describedby="tooltip234552" loading="lazy" style=""/>
+            </div>
+            <div class="o_colored_level o_grid_item o_grid_item_image g-height-3 g-col-lg-2 col-lg-2" style="z-index: 0; grid-area: 2 / 10 / 5 / 12;">
+              <img src="/web/image/1113-d9211ce6/%28KSA%29%20%D8%B4%D8%B1%D9%83%D8%A9%20%D8%A3%D9%88%D8%A7%D9%85%D8%B1%20%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A9%20%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA.png" alt="" class="img img-fluid mx-auto o_we_custom_image" data-original-id="1112" data-original-src="/web/image/1112-ea4a19e3/%28KSA%29%20%D8%B4%D8%B1%D9%83%D8%A9%20%D8%A3%D9%88%D8%A7%D9%85%D8%B1%20%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A9%20%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA.png" data-mimetype="image/png" data-resize-width="962" loading="lazy" style=""/>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
